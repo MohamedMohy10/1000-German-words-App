@@ -24,5 +24,7 @@ The App is for users who want to start their journey in learning the german lang
 - Your Goal is to memorize the 1000 word so the 'words_to_learn.csv' file becomes empty one day ..
 
 
-#### The words dataset is taken from [strommeninc](https://strommeninc.com/1000-most-common-german-words-frequency-vocabulary/) website
+
+
+### The words dataset is taken from [strommeninc](https://strommeninc.com/1000-most-common-german-words-frequency-vocabulary/) website
 
