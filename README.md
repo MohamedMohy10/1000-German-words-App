@@ -4,14 +4,12 @@ The App is for users who want to start their journey in learning the german lang
 ## How it works 
 - The App at first picks a random German word from the main dataset 'data/german_words.csv' and views it
 
-<img src="https://user-images.githubusercontent.com/61654046/225767738-0b0b1690-98dd-4460-a085-e786bd69f8ae.png" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/61654046/225767738-0b0b1690-98dd-4460-a085-e786bd69f8ae.png" width="400" height="400" />
 
 
 - After 5 seconds, the English translation is shown on screen
 
-
-![image](https://user-images.githubusercontent.com/61654046/225767808-d740b56c-a149-4345-94a4-4fd197107638.png)
-
+<img src="https://user-images.githubusercontent.com/61654046/225767808-d740b56c-a149-4345-94a4-4fd197107638.png" width="400" height="400" />
 
 - If the user feel that he don't memorize it well and wants see this word again, then he clicks the red button ❌, 
   Otherwise, If he is confident that he knows this word very well and doesn't want the program to show it again then he should click the green button ✔
