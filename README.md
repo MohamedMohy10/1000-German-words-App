@@ -1,4 +1,4 @@
-# 1000 German Word App
+# 1000 German words App
 Learn the most common used 1000 German words easily through flash cards
 
 ## How it works 
