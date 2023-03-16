@@ -26,5 +26,5 @@ The App is for users who want to start their journey in learning the german lang
 
 
 
-### The words dataset is taken from [strommeninc](https://strommeninc.com/1000-most-common-german-words-frequency-vocabulary/) website
+#### The words dataset is taken from [strommeninc](https://strommeninc.com/1000-most-common-german-words-frequency-vocabulary/) website
 
