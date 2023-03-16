@@ -1,5 +1,5 @@
 # 1000 German words App
-Learn the most common used 1000 German words easily through flash cards
+The App is for users who want to start their journey in learning the german language, it contains the most common 1000 German words, its goal is to make learning and memorizing them easy through flash cards.
 
 ## How it works 
 - The App at first picks a random German word from the main dataset 'data/german_words.csv' and views it
