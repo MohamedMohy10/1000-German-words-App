@@ -4,7 +4,7 @@ The App is for users who want to start their journey in learning the german lang
 ## How it works 
 - The App at first picks a random German word from the main dataset 'data/german_words.csv' and views it
 
-![image](https://user-images.githubusercontent.com/61654046/225767738-0b0b1690-98dd-4460-a085-e786bd69f8ae.png =250x250)
+<img src="(https://user-images.githubusercontent.com/61654046/225767738-0b0b1690-98dd-4460-a085-e786bd69f8ae.png" width="250" height="250">
 
 
 - After 5 seconds, the English translation is shown on screen
